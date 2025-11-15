@@ -120,7 +120,7 @@ if __name__ == "__main__":
 ```
 
 ## Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/[your-github-username]/Context-Snapshot/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Akhil-Chaturvedi/Context-Snapshot/issues).
 
 ## License
 This project is licensed under the **GNU General Public License v3.0**. See the [LICENSE](LICENSE) file for details.
